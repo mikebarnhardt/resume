@@ -1,0 +1,14 @@
+@media screen {
+  html {
+    font-size: 16px;
+  }
+
+  body {
+    max-width: 64rem;
+  }
+
+  .screen\:mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

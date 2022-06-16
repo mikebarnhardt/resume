@@ -1,0 +1,5 @@
+@media print {
+  .print\:m-32 { margin: 2rem }
+  .print\:none { display: none }
+  .print\:text-12 { font-size: 0.75rem }
+}
